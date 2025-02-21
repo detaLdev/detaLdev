@@ -7,4 +7,7 @@
   <a>
     <img src='https://pngimg.com/uploads/letter_c/letter_c_PNG22.png' alt='' width='45px'/>
   </a>
+  <a>
+    <img src='https://gitlab.com/uploads/-/system/group/avatar/407840/lua.png' alt='' width='45px'/>
+  </a>
 </p>
