@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<p align="center"> 
+<p align="center" style="align-items: center; display: flex"> 
   <a>
     <img src='https://static.cdnlogo.com/logos/c/68/c-sharp-800x800.png' alt='' width='40px'/>
   </a>
