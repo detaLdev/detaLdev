@@ -13,4 +13,7 @@
   <a>
     <img src='https://th.bing.com/th/id/R.7d567b2eb55280ac35ff2b139d85f5e5?rik=GFuqETvR8bwLsA&riu=http%3a%2f%2fclipart-library.com%2fimages_k%2fpython-logo-transparent%2fpython-logo-transparent-5.png&ehk=q3Ke%2fUNdpHLXNSnzqqcJIdmy2os3r1eI2v%2fkCkef2II%3d&risl=&pid=ImgRaw&r=0' alt='' width='35px'/>
   </a>
+  <a>
+    <img src='https://th.bing.com/th/id/OIP.fGpgk9AVa9fKPUnSMhfLCAHaFj?rs=1&pid=ImgDetMain' alt='' width='45px'/>
+  </a>
 </p>
