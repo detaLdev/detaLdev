@@ -1,4 +1,4 @@
-## print('Hello, World')
+## print('Hello, World!')
 I'm detaL, Developer Full-Stack
 
 ### Contact in
