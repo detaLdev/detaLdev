@@ -1,19 +1,13 @@
-## detaL
+## print('Hello, World')
+I'm detaL, Developer Full-Stack
 
-<p align="center" style="align-items: center; display: flex"> 
-  <a>
-    <img src='https://static.cdnlogo.com/logos/c/68/c-sharp-800x800.png' alt='' width='40px'/>
-  </a>
-  <a>
-    <img src='https://pngimg.com/uploads/letter_c/letter_c_PNG22.png' alt='' width='45px'/>
-  </a>
-  <a>
-    <img src='https://gitlab.com/uploads/-/system/group/avatar/407840/lua.png' alt='' width='40px'/>
-  </a>
-  <a>
-    <img src='https://th.bing.com/th/id/R.7d567b2eb55280ac35ff2b139d85f5e5?rik=GFuqETvR8bwLsA&riu=http%3a%2f%2fclipart-library.com%2fimages_k%2fpython-logo-transparent%2fpython-logo-transparent-5.png&ehk=q3Ke%2fUNdpHLXNSnzqqcJIdmy2os3r1eI2v%2fkCkef2II%3d&risl=&pid=ImgRaw&r=0' alt='' width='35px'/>
-  </a>
-  <a>
-    <img src='https://cdn.iconscout.com/icon/free/png-512/javascript-2752148-2284965.png' alt='' width='36px'/>
-  </a>
-</p>
+### Contact in
+[![Discord](https://img.shields.io/badge/-lp.-672fe0?style=flat-square&labelColor=672fe0&logo=discord&logoColor=white&link=https://discord.com/users/432954675734511626)](https://discord.com/users/947529245540880414)
+
+<div style="display: inline_block"><br>
+  <img align="center" alt="Ronaldo" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-plain.svg">
+  <img align="center" alt="Ronaldo" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-plain.svg">
+  <img align="center" alt="Ronaldo" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
+  <img align="center" alt="Ronaldo" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/php/php-plain.svg">
+  <img align="center" alt="Ronaldo" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/lua/lua-plain.svg">
+</div>
