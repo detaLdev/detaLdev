@@ -1,7 +1,5 @@
 ## print('Hello, World!')
-I'm detaL, Developer Full-Stack
-
-Project budget on my ig.
+I'm Melo, developer fulls-tack in Brazil.
 
 
 <div style="display: inline_block"><br>
