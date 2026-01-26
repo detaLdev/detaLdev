@@ -12,6 +12,6 @@ Project budget on my ig.
   <img align="center" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg">
   <img align="center" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/json/json-plain.svg">
   <img align="center" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg">
-  <img align="centwer" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-plain.svg">
+  <img align="centwer" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg">
   <img align="center" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/python/python-plain.svg">
 </div>
