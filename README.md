@@ -2,6 +2,7 @@
 Desenvolvedor de Sistemas Full-Stack
 <br><br>
 ##Hard Skills
+<br>
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Pawn](https://img.shields.io/badge/Pawn-FABF78?style=for-the-badge&logo=chess&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
