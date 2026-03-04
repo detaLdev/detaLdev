@@ -2,7 +2,7 @@
 Desenvolvedor de Sistemas e Estudante Eng. Software.
 <br><br>
 ## Minha carreira
-Atuei como desenvolvedor Front-End em diversos projetos, tais como Glória Cidade Inteligente e Boutique Café, sendo fomentado pela FACEPE (Fundação e Amparo à Ciência do Estado de Pernambuco); e Back-End em projetos de clientes e pessoais, principalmente em jogos da plataforma San Andreas Multiplayer.
+Atuei como desenvolvedor Front-End em diversos projetos, tais como Glória Cidade Inteligente e Boutique Café, fomentados pela FACEPE (Fundação e Amparo à Ciência do Estado de Pernambuco) nos 2 (dois) anos consecutivamente; e Back-End em projetos de clientes e pessoais, principalmente em jogos da plataforma San Andreas Multiplayer.
 <br><br>
 ## Hard Skills
 
