@@ -2,7 +2,7 @@
 Desenvolvedor de Sistemas e Estudante Eng. Software.
 <br><br>
 ## Minha carreira
-Atuei como desenvolvedor Front-End em diversos projetos, tais como Glória Cidade Inteligente e Boutique Café, fomentados pela FACEPE (Fundação e Amparo à Ciência do Estado de Pernambuco) em 2024 e 2025, sucessiva e consecutivamente; e Back-End em projetos de clientes e pessoais, principalmente em jogos da plataforma San Andreas Multiplayer.
+Sou estudante, concluinte do Ensino Médio Técnico pela Escola Técnica Estadual de Pernambuco. Durante os últimos três anos, tive a oportunidade de liderar equipes como Pingo e Nexfy chegando aos TOP 100 melhores projetos da ![Copa Colegial de Empreendedorismo](https://www.copacolegial.com.br/): A maior ação de fomento ao empreendedorismo jovem da história do Brasil. atuei como desenvolvedor Front-End em diversos projetos, tais como Glória Cidade Inteligente e Boutique Café, fomentados pela FACEPE (Fundação e Amparo à Ciência do Estado de Pernambuco) em 2024 e 2025, sucessiva e consecutivamente; e Back-End em projetos de clientes e pessoais, principalmente em jogos da plataforma San Andreas Multiplayer.
 <br><br>
 ## Hard Skills
 
