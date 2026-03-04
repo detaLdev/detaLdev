@@ -1,7 +1,7 @@
 ## I'm Vinícius Dev.
 Desenvolvedor de Sistemas Full-Stack
 <br><br>
-##Hard Skills
+## Hard Skills
 <br>
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Pawn](https://img.shields.io/badge/Pawn-FABF78?style=for-the-badge&logo=chess&logoColor=white)
